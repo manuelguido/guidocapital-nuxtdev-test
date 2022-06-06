@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[258],{1169:function(e,n,r){"use strict";r.r(n);var t={middleware:function(e){var n=e.redirect,r=e.store,t=JSON.parse(r.getters["user/user"]);n(null!==t?t.routes[0].url:"logout")}},l=r(2),component=Object(l.a)(t,undefined,undefined,!1,null,null,null);n.default=component.exports}}]);
