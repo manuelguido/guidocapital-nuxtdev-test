@@ -1,1 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[202],{1068:function(n,e,d){"use strict";d.r(e);var r={middleware:function(n){return(0,n.redirect)("admin/clients/pro")}},t=d(3),component=Object(t.a)(r,undefined,undefined,!1,null,null,null);e.default=component.exports}}]);
